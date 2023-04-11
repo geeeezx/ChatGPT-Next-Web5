@@ -38,7 +38,7 @@ export enum SubmitKey {
 }
 
 export enum Theme {
-  Auto = "auto",
+  Auto = "light",
   Dark = "dark",
   Light = "light",
 }
