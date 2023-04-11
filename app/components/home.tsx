@@ -182,7 +182,7 @@ function _Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>DondaAI.com</div>
           <div className={styles["sidebar-sub-title"]}>
-            New Generation of AGI for All
+            Powered by OpenAI 
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
